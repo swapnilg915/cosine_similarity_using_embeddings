@@ -1,0 +1,11 @@
+numpy
+pandas
+simplejson
+spacy
+tensorflow==1.14.0
+tensorflow_hub
+flair
+nltk
+sklearn
+gensim
+sentence_transformers

@@ -8,5 +8,6 @@ There are so many pre-trained word embeddings are available for representing the
 5. Flair embeddings 
 6. Spacy embeddings
 7. WMD (Word Movers Distance)
+8. Sentence transformers
 
-python libraries used - Tensorflow, Gensim, Sklearn, Flair.
+python libraries used - Tensorflow, Gensim, Sklearn, Flair, sentence_transformers, numpy
